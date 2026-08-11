@@ -10,4 +10,5 @@ GitHub Pages で公開しています。
 ## ファイル構成
 
 - `index.html` — LP本体（バンドル済み単一ファイル）
+- `ogp.jpg` — SNSシェア時のカード画像（1200×630）
 - `.nojekyll` — GitHub Pages の Jekyll 処理を無効化
